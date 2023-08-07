@@ -14,7 +14,7 @@ Admin users can create and manage models. The admin has been optimised (the basi
 Librarians can renew reserved books
 
 Quick Start
-To get this project up and running locally on your computer:
+To get this project up and[LICENSE](LICENSE) running locally on your computer:
 
 Set up the Python development environment. We recommend using a Python virtual environment.
 Note: This has been tested against Django 3.1.2 (and may not work or be "optimal" for other versions).
